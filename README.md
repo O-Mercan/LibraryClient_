@@ -30,7 +30,7 @@ This project contains the client-side code for a library system running on the S
 ### Prerequisites
 
 - Node.js (v16 and above)
-- NPM or Yarn
+- NPM 
 - Solana CLI
 - Rust and Cargo
 
